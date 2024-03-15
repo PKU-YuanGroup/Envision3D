@@ -1,6 +1,6 @@
 # Envision3D 
 
-## Envision3D: One Image to 3D with Anchor Views Interpolation, [ArXiv](https://arxiv.org/abs/), [Project Page]()
+## Envision3D: One Image to 3D with Anchor Views Interpolation, [ArXiv](https://arxiv.org/abs/2403.08902), [Project Page]()
 
 Work in progress ...
 - [x] Inference code
