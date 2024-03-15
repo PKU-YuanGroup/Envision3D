@@ -1,6 +1,7 @@
-# Envision3D 
+# Envision3D: One Image to 3D with Anchor Views Interpolation,
+Yatian Pang, Tanghui Jia, Yujun Shi, Zhenyu Tang, Junwu Zhang, Xinhua Cheng, Xing Zhou, Francis E.H. Tay, [Li Yuan](https://yuanli2333.github.io/)
 
-## Envision3D: One Image to 3D with Anchor Views Interpolation, [ArXiv](https://arxiv.org/abs/2403.08902), [Project Page]()
+## [ArXiv](https://arxiv.org/abs/2403.08902), [Project Page](https://anonymous-envision3d.github.io/)
 
 Work in progress ...
 - [x] Inference code
