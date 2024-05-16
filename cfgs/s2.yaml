@@ -1,0 +1,18 @@
+pretrained_model_name_or_path: ./pretrained_models/s2_pipe
+
+revision: null
+validation_dataset:
+    image_paths: ./img_outputs/s1_val_out
+    scene: pumpkin
+    bg_color : "white"
+    crop_size : -1
+    img_wh : [256, 256]
+
+seed: 42
+validation_batch_size: 1
+
+enable_xformers_memory_efficient_attention: true
+
+dataloader_num_workers: 64
+
+save_dir: './img_outputs/'
